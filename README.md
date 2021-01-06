@@ -16,6 +16,11 @@ Add wallets or create a new wallet
 
 
 ### Work in progress
+
 https://blog.trusttoken.com/the-truecurrency-liquidity-fund-is-now-open-3cd0e8dd890c
+
 https://www.trusttoken.com/
+
 https://app.trusttoken.com/signup-or-signin
+
+https://developer.kyber.network/docs/Katalyst-Intro/
