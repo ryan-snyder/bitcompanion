@@ -1,26 +1,15 @@
-# BitCompanion: The ultimate travel companion 
+# BitCompanion: The ultimate cryptowallet
 
 
 ## Overview
-
-Bitcompanion is a cryptobased travel companion that will let you book and pay for everything you need for traveling, hotels/flights/events/tours/etc
-Cryptocurrency-based travel is a rapidly growing sector/industry blah blah
+Bitcompaion is an AIO (All in one) crypto wallet that lets you pay for anything with anything
 
 ## What makes bitcompanion different?
+Pay for everyday purchases/subscriptions/etc with any crypto/fiat
+Uses TrueUSD/TrueCAD/etc stablecoin
+earn rewards based on purchases
+Add wallets or create a new wallet
 
-Not sure lol
-
-based off etherum
-
-one app for everything: pay for everything while you're away and not worry about currency conversions
-
-rewards: get rewards just for traveling
-
-best prices: we aggregate the best prices from expedia/booking.com/travala/hotel.com/etc
-
-secure and anonymous
-
-etc
 
 
 ### Work in progress
