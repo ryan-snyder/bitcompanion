@@ -23,4 +23,4 @@ https://www.trusttoken.com/
 
 https://app.trusttoken.com/signup-or-signin
 
-https://developer.kyber.network/docs/Katalyst-Intro/
+https://developer.kyber.network/docs/Integrations-SmartContractGuide/
