@@ -56,5 +56,25 @@ How does this affect prices? Not sure
 Uses TrueUSD
 
 Every transaction is converted into TrueUSD which is then converted into the Transaction currency which is used in purchase
+## Cross-Blockchain operations
+*NOTE We can do this on frontend but screw it*
+A key step forward in blochchain technology is the ability to perform operations across different blockchains.
+For example, getting a bitcoin wallet from an etherum contract and vice versa
 
+### BitCompanionWallet
+
+The BitCompanion wallet is an etherum wallet that contains info on the user
+
+It contains:
+
+wallet address
+associated wallets
+funds
+user data?
+
+
+Funds:
+
+User can have funds in any cryptocurrency and in fiat currency
+Funds should be an array of objects for each currency they have, as specificed by the addFunds function
 
